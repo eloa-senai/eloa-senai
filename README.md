@@ -22,9 +22,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height= "40" width= "40" />
 
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eloa-senai&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Rafael altieris" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eloa-senai&show_icons=true&locale=en&theme=tokyonight" alt="Rafael Altieris Almeida dos Santos" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eloa-senai&&theme=tokyonight" alt="Rafael Altieris Almeida dos Santos" /></p>
 </div>
