@@ -21,3 +21,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height= "40" width= "40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height= "40" width= "40" />
 
+<div>
+<a href="https://github.com/eloa-senai">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?eloa-senai&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?eloa-senai&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+
+
+![Snake animation](https://github.com/eloa-senai/eloa-senai/blob/output/github-contribution-grid-snake.svg)
