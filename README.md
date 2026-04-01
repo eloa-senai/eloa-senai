@@ -4,9 +4,9 @@
 - 🔭 Atualmente estou apenas estudando
 - 🌱 Atualmente estou aprendendo Desenvolvimento de Sistemas
 - 👯 Estou procurando colaborar em projetos Front/Back
-- 📫 Como entrar em contato comigo:
+- 📫 Como entrar em contato comigo: Whatsapp: (14) 997209198
 - 😄 Pronomes: She/Her
-- ⚡ Curiosidade:
+- ⚡ Curiosidade: Escritora
 
 
 ## Ferramentas e Tecnologias
